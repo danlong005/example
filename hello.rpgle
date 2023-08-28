@@ -1,6 +1,6 @@
-**FREE
+       Ctl-Opt DftActGrp(*No) Option(*NoDebugIO:*SrcStmt);
 
-Dsply 'Hello World';
+       Dsply 'Hello World';
 
-*InLR = *On;
-Return;
+       *InLR = *On;
+       Return;
